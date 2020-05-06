@@ -1,0 +1,15 @@
+body {
+  font-family: sans-serif;
+}
+
+#btn {
+  outline: none;
+}
+
+.normal {
+  background-color: white;
+}
+
+.focused {
+  box-shadow: 0 0 0 5px rgba(155, 155, 255, 0.5);
+}
